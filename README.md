@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Machine Learing and comptetetive programming
 - 💞️ I’m looking to collaborate on Machine Learning and Open source related stuff
 - 📫 How to reach me - you can reach out to me 
-gmail : singhakshay.etw69@gmail.com
+gmail : singhakshay.etw69@gmail.com 
+
 mylinkedin : https://www.linkedin.com/in/akshay-singh-009274187/
 
 
