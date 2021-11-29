@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Singh
 - 👀 I’m interested in problem solving in Data Structures and algorithms and Machine Learnig and AI as professional
-- 🌱 I’m currently learning Machine Learing and comptetetive programming
+- 🌱 I’m currently learning Machine Learing and competetive programming
 - 💞️ I’m looking to collaborate on Machine Learning and Open source related stuff
 - 📫 How to reach me - you can reach out to me 
 - gmail : singhakshay.etw69@gmail.com 
